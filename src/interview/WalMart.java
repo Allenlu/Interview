@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-public class WallMarket {
+public class WalMart {
 
     public static void main(String[] args){
         String[] problems = new String[]{"abc","bcd","abc","cdf"};
